@@ -37,4 +37,4 @@ ru_appを実行すると、ローカルにpython環境があれば自動的に�
 
 ### 検出結果
 パラメータを調整することで、生存している細胞をカウントしつつ、凝集して丸くなった死細胞を除くことができます。
-![result](docs/screenshots/result.png)
+![result](docs/result.png)
